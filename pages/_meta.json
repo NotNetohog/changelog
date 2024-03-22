@@ -1,15 +1,10 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Introdução",
+  "publicitario": "Publicitário",
   "contact": {
-    "title": "Contact ↗",
+    "title": "Apps ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://app.bornlogic.com",
     "newWindow": true
   }
 }
