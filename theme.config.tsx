@@ -10,6 +10,16 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Bornlogic Changelog',
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s'
+    }
+  },
+  head: (
+    <>
+      <meta property="og:description" content="Bornlogic Changelog" />
+    </>
+  )
 }
 
 export default config
